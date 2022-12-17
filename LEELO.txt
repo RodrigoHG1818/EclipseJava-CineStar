@@ -1,0 +1,5 @@
+Desde el archivo Index se puede visualizar la pagina de CineStar al iniciarlo desde Eclipse
+
+Al cambiar el comando " <%@include file="WEB-INF/verPelicula.jspf" %> " se puede cambiar para ver las peliculas que quieres 
+o ver los cines disponibles
+
